@@ -1,3 +1,3 @@
-## Program 1A
+# Java_Programs
 
-[Click here to view the code](https://github.com/4AL22CS098/java_programs/blob/main/Program_1_A.java)
+- **Program 1a** - (https://github.com/Rakshitha-Kotyan/Java_Programs/blob/main/Program_1a.java)
