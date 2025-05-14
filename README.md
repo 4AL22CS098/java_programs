@@ -1,3 +1,3 @@
-#java_programs
+## Program 1A
 
-- **program 1A  code link ** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_1_A.java)
+[Click here to view the code](https://github.com/4AL22CS098/java_programs/blob/main/Program_1_A.java)
