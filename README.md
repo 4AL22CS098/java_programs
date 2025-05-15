@@ -15,7 +15,7 @@
 - **Linked_list_4 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_9.jpg)
 - **Linked_list_5 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_10.jpg)
 # Program 2 and its excersie 
-- **Program 2 & excerise** - (https://github.com/4AL22CS098/java_programs/blob/main/Program_1.java)
+- **Program 2 & excerise** - (https://github.com/4AL22CS098/java_programs/blob/main/Program_2.java)
 - **Program 2 output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
 - # Exercise_program1_HashMap
 - **HashMap_1 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/HashMap1.png)
