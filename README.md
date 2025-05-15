@@ -1,6 +1,6 @@
 
  # Program 1 and its excersie 
-- **Program 1 and excerise** - (https://github.com/4AL22CS098/java_programs/blob/main/Program%201%20and%20excersis)
+- **Program 1 & excerise** - (https://github.com/4AL22CS098/java_programs/blob/main/Program%201%20and%20excersis)
 - **Program 1a output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
 - # Exercise_program1_ArrayList
 -  **Array_list_1  =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist1.jpg)
