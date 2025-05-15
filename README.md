@@ -1,4 +1,4 @@
-0
+
  # Program 1 and its exercise 
 - **Program 1 & excerise** - (https://github.com/4AL22CS098/java_programs/blob/main/Program_1.java)
 - **Program 1 output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
