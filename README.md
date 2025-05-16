@@ -17,17 +17,17 @@
 # Program 2 and its exercise  
 - **Program 2 & excerise** - (https://github.com/4AL22CS098/java_programs/blob/main/Program_2.java)
 - **Program 2 output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_2.png)
-- # Exercise_program1_HashMap
+- # Exercise_program2_HashMap
 - - **HashMap_1 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/HashMap1.png)
 - - **HashMap_2 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/HashMap2.png)
 - - **HashMap_3 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/HashMap3.png)
 - - **HashMap_4 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/HashMap4.png)
-- # Exercise_program1_TreeMap
+- # Exercise_program2_TreeMap
 - - **TreeMap_1 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/TreeMap1.png)
 - - **TreeMap_2 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/TreeMap2.png)
 - - **TreeMap_3 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/TreeMap3.png)
 - - **TreeMap_4 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/TreeMap4.png)
--  # Exercise_program1_TreeMap
+-  # Exercise_program2_TreeMap
 - - **Linked_HashMap_1 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_HashMap1.png)
 - - **Linked_HashMap_2 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_HashMap2.png)
 - - **Linked_HashMap_3 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_HashMap3.png)
