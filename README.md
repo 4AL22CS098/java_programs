@@ -16,4 +16,5 @@
 - - **Linked_list_5 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_10.jpg)
   # Program 2
 - **Program 2A** -(https://github.com/4AL22CS098/java_programs/blob/main/Program2A.java)
+- **Program 2A output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.jpg)
 
