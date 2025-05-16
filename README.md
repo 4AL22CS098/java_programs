@@ -15,8 +15,7 @@
 - - **Linked_list_4 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_9.jpg)
 - - **Linked_list_5 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_10.jpg)
   # Program 2
-- **Program 2A** -(https://github.com/4AL22CS098/java_programs/blob/main/Program2A.java)
-- **Program 2A =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.jpg)
-- **Program 2B** -(https://github.com/4AL22CS098/java_programs/blob/main/Program2B.java)
-- **Program 2B =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.jpg)
-
+- **Program 2A** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2A.java)
+- **Program 2A =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
+- **Program 2B** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
+- **Program 2B =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
