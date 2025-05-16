@@ -28,11 +28,18 @@
 - # program 3A(StringOperation)
 - **Program StringOperation** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
 - **Program StringOperation =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
-- # program 3B exercise
+- # program 3B StringOperation
 -  **Program 3B(StringOpertions) exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
 - - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
 - - **SubStingCounter =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq2_output.png)
 - - **ReverseString =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq3_output.png)
 - - **PalindromeCheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq4_output.png)
 - - **RemoveWhiteSpace =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq5_output.png)
+-  # program 3C StringExcerise
+-  **Program 3c(StringExcersise) exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3c.java)
+- - **Captializewords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq1_output.png)
+- - **truncate =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq2_output.png)
+- - **isNumeric =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq3_output.png)
+- - **ClassgenerateRandomString =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq4_output.png)
+- - **CountWords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq5_output.png)
 
