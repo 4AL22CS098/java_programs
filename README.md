@@ -36,7 +36,7 @@
 - - **PalindromeCheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq4_output.png)
 - - **RemoveWhiteSpace =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq5_output.png)
 -  # program 3C StringExcerise
--  **Program 3c(StringExcersise) exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3c.java)
+-  **Program 3c(StringExcersise) exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3C.java)
 - - **Captializewords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq1_output.png)
 - - **truncate =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq2_output.png)
 - - **isNumeric =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq3_output.png)
