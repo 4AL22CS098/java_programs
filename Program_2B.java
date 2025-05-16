@@ -5,7 +5,7 @@ public class PerformanceTest {
 
     public static void main(String[] args) {
 
-        // Program by Pallavi - 4AL22CS098
+      
 
         String str = "AIET";
         int times = 10000;
