@@ -10,72 +10,72 @@ public class StringOperationsDemo {
     public static void main(String[] args) {
 
         // 1. String Creation and Basic Operations
-        String str1 = "Hello";
-        String str2 = new String("World");
-        System.out.println("String 1: " + str1);
-        System.out.println("String 2: " + str2);
+        String y = "Pallavi";
+        String y2 = new String("Coder");
+        System.out.println("String y: " + y);
+        System.out.println("String y2: " + y2);
 
         // 2. Length and Character Access
-        System.out.println("Length of str1: " + str1.length());
-        System.out.println("Character at index 1 in str1: " + str1.charAt(1));
+        System.out.println("Length of y: " + y.length());
+        System.out.println("Character at index 1 in y: " + y.charAt(1));
 
         // 3. String Comparison
-        String str3 = "Hello";
-        System.out.println("str1 equals str3? " + str1.equals(str3));
-        System.out.println("str1 equalsIgnoreCase 'hello'? " + str1.equalsIgnoreCase("hello"));
-        System.out.println("str1 compareTo str2: " + str1.compareTo(str2));
+        String y3 = "Pallavi";
+        System.out.println("y equals y3? " + y.equals(y3));
+        System.out.println("y equalsIgnoreCase 'pallavi'? " + y.equalsIgnoreCase("pallavi"));
+        System.out.println("y compareTo y2: " + y.compareTo(y2));
 
         // 4. String Searching
-        String str4 = "Hello World!";
-        System.out.println("Index of 'World' in str4: " + str4.indexOf("World"));
-        System.out.println("Does str4 contain 'Hello'? " + str4.contains("Hello"));
+        String y4 = "Pallavi is learning Java!";
+        System.out.println("Index of 'learning' in y4: " + y4.indexOf("learning"));
+        System.out.println("Does y4 contain 'Pallavi'? " + y4.contains("Pallavi"));
 
         // 5. Substring Operations
-        System.out.println("Substring from index 6 in str4: " + str4.substring(6));
-        System.out.println("Substring from index 0 to 5 in str4: " + str4.substring(0, 5));
+        System.out.println("Substring from index 9 in y4: " + y4.substring(9));
+        System.out.println("Substring from index 0 to 7 in y4: " + y4.substring(0, 7));
 
         // 6. String Modification
-        String modified = str4.replace("World", "Java");
-        System.out.println("After replace: " + modified);
-        System.out.println("Uppercase: " + str4.toUpperCase());
-        System.out.println("Lowercase: " + str4.toLowerCase());
+        String yModified = y4.replace("Java", "Python");
+        System.out.println("After replace: " + yModified);
+        System.out.println("Uppercase: " + y4.toUpperCase());
+        System.out.println("Lowercase: " + y4.toLowerCase());
 
         // 7. Whitespace Handling
-        String withSpaces = "   Hello Java   ";
-        System.out.println("Original: '" + withSpaces + "'");
-        System.out.println("Trimmed: '" + withSpaces.trim() + "'");
+        String yWithSpaces = "   Pallavi Rocks   ";
+        System.out.println("Original: '" + yWithSpaces + "'");
+        System.out.println("Trimmed: '" + yWithSpaces.trim() + "'");
 
         // 8. String Concatenation
-        String concat = str1 + " " + str2;
-        System.out.println("Concatenated String: " + concat);
-        System.out.println("Using concat(): " + str1.concat(" ").concat(str2));
+        String yConcat = y + " " + y2;
+        System.out.println("Concatenated String: " + yConcat);
+        System.out.println("Using concat(): " + y.concat(" ").concat(y2));
 
         // 9. String Splitting
-        String sentence = "Java is a versatile language";
-        String[] words = sentence.split(" ");
+        String ySentence = "Pallavi is a great programmer";
+        String[] yWords = ySentence.split(" ");
         System.out.println("Words in sentence:");
-        for (String word : words) {
+        for (String word : yWords) {
             System.out.println(word);
         }
 
         // 10. StringBuilder Demo
-        StringBuilder sb = new StringBuilder("Hello");
-        sb.append(" World");
-        sb.insert(5, ",");
-        sb.replace(6, 11, " Java");
-        sb.delete(5, 6);
-        System.out.println("StringBuilder result: " + sb.toString());
+        StringBuilder yBuilder = new StringBuilder("Pallavi");
+        yBuilder.append(" Rocks");
+        yBuilder.insert(7, " Really");
+        yBuilder.replace(0, 7, "She");
+        yBuilder.delete(3, 4);
+        System.out.println("StringBuilder result: " + yBuilder.toString());
 
         // 11. String Formatting
-        String name = "Alice";
-        int age = 25;
-        String formatted = String.format("Name: %s, Age: %d", name, age);
-        System.out.println("Formatted String: " + formatted);
+        String yName = "Pallavi";
+        int yAge = 22;
+        String yFormatted = String.format("Name: %s, Age: %d", yName, yAge);
+        System.out.println("Formatted String: " + yFormatted);
 
         // 12. Validate Email
-        String email = "user@example.com";
-        boolean isValid = email.contains("@") && email.startsWith("user") && email.endsWith(".com");
-        System.out.println("Email: " + email);
-        System.out.println("Is valid email? " + isValid);
+        String yEmail = "pallavi@example.com";
+        boolean yValid = yEmail.contains("@") && yEmail.startsWith("pallavi") && yEmail.endsWith(".com");
+        System.out.println("Email: " + yEmail);
+        System.out.println("Is valid email? " + yValid);
     }
 }
