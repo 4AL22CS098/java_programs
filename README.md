@@ -15,16 +15,16 @@
 - - **Linked_list_4 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_9.jpg)
 - - **Linked_list_5 =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_10.jpg)
   # Program 2
-- # program StringOperationDemo_2A
-- **Program StringOpertaion_Demo_2A** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2A.java)
-- **Program 2A_StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
--  # program PerformanceTest_2B
-- **Program 2B_PerformaceTest** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
-- **Program 2B_PerfromanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
+- # program 2A(StringOperationDemo)
+- **Program StringOpertaion_Demo** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2A.java)
+- **Program StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
+-  # program 2B(PerformanceTest)
+- **Program PerformaceTest** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
+- **Program PerfromanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
  # Program 3
-- # program StringOperation_3A
-- **Program StringOperation_3A** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
-- **Program StringOperation_3A =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
+- # program 3A(StringOperation)
+- **Program StringOperation** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
+- **Program StringOperation =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
 - # program 3B exercise
 -  **Program 3B(StringOpertions) exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
 - - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
