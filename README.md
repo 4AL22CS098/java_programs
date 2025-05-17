@@ -42,4 +42,14 @@
 - - **isNumeric =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq3_output.png)
 - - **ClassgenerateRandomString =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq4_output.png)
 - - **CountWords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq5_output.png)
+ # Program 4
+- # Swing Program_A
+-  **Program StringOpertions** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
+- - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
+- # Swing Program_B
+-  **Program StringOpertions** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
+- - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
+- # Swing Program_C
+-  **Program StringOpertions** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
+- - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
 
