@@ -21,21 +21,21 @@
 - # StringOperationDemo
 - **Program StringOpertaion_Demo** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2A.java)
 - - **Program StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
--  # program PerformanceTest
+-  # PerformanceTest
 - **Program PerformaceTest** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
 - - **Program PerfromanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
  # Program 3
-- # program StringOperation_A
+- # StringOperation_A
 - **Program StringOperation** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
 - - **Program StringOperation =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
-- # program  StringOperation_B
+- # StringOperation_B
 -  **Program StringOpertions** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
 - - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
 - - **SubStingCounter =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq2_output.png)
 - - **ReverseString =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq3_output.png)
 - - **PalindromeCheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq4_output.png)
 - - **RemoveWhiteSpace =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq5_output.png)
--  # program  StringExcerise_C
+-  # StringExcerise_C
 -  **Program StringExcersise exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3C.java)
 - - **Captializewords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq1_output.png)
 - - **truncate =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq2_output.png)
