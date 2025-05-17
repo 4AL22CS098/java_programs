@@ -2,7 +2,7 @@
  # Program 1 
 - # Program 1A(ListInterfaceDemo)
 - **ListInterfaceDemo** - (https://github.com/4AL22CS098/java_programs/blob/main/Program_1.java)
-- **ListInterfaceDemo output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
+-- **ListInterfaceDemo output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
 - # Program 1B(Array_List)
 - **Array_List** - (https://github.com/4AL22CS098/java_programs/blob/main/Array_list.java)
 - -  **ColorSearch  =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist1.jpg)
@@ -20,14 +20,14 @@
   # Program 2
 - # program 2A(StringOperationDemo)
 - **Program StringOpertaion_Demo** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2A.java)
-- **Program StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
+- - **Program StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
 -  # program 2B(PerformanceTest)
 - **Program PerformaceTest** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
-- **Program PerfromanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
+- - **Program PerfromanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
  # Program 3
 - # program 3A(StringOperation)
 - **Program StringOperation** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
-- **Program StringOperation =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
+- - **Program StringOperation =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
 - # program 3B StringOperation
 -  **Program 3B(StringOpertions) exercise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
 - - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
