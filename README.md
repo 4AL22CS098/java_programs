@@ -23,7 +23,7 @@
 - - **StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
 -  # PerformanceTest
 - **PerformaceTest** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
-- - **PerfromanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
+- - **PerformanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
  # Program 3
 - # StringOperation_A
 - **StringOperation** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
