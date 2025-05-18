@@ -24,25 +24,3 @@ out.print("<br>Kindly press the following link to check it<br>");
 <a href="second.jsp">Display the value</a>
 </body>
 </html>
-//In second.jsp page, the value of variable is retrieved from the session and displayed.
-//second.jsp
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-pageEncoding="ISO-8859-1"%>
-<!DOCTYPE html>
-<html>
-<head>designation
-
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
-</head>
-<body>
-<h1>Display the session value on this page</h1>
-<%
-String name=(String)session.getAttribute("user");
-if(name==null)
-out.print("Sorry the session has ended");
-else
-out.print("Hello "+name);
-%>
-</body>
-</html>
