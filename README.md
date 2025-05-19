@@ -65,4 +65,13 @@
  - # ColorTabbedPane
 -  **ColorTabbedPane** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5D.java)
 - - **ColorTabbedPane =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
-
+ # Program 6
+- # FactorialServlet
+-  **FactorialServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5A.java)
+- - **FactorialServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
+- # CookieServlet
+-  **CookieServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5B.java)
+- - **CookieServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
+- # PrimeServlet
+-  **PrimeServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5C.java)
+- - **PrimeServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
