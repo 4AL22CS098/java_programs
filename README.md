@@ -1,115 +1,105 @@
+# Java Programs Repository Outputs
 
- # Program 1 
-- # ListInterfaceDemo
-- **ListInterfaceDemo** - (https://github.com/4AL22CS098/java_programs/blob/main/Program_1.java)
-- - **ListInterfaceDemo output** - (https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
-- # Array_List
-- **Array_List** - (https://github.com/4AL22CS098/java_programs/blob/main/Array_list.java)
-- -  **ColorSearch  =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist1.jpg)
-- - **RemoveColors =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist2.jpg)
-- - **SortColors =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist3.jpg)
-- - **SubListExample =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist4.jpg)
-- - **RemoveNthElement =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/arraylist5.jpg)
--  # Linked_List
--  **Linked_List** -(https://github.com/4AL22CS098/java_programs/blob/main/Linked_List.java)
-- - **IterateFromSecond =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_6.jpg)
-- - **ReverseIteration =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_7.jpg)
-- - **InsertAtEnd =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_8.jpg)
-- - **DisplayWithPositions =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_9.jpg)
-- - **SwapElements =>output** - (https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_10.jpg)
-  # Program 2
-- # StringOperationDemo
-- **StringOpertaion_Demo** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2A.java)
-- - **StringOpertaion_Demo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
--  # PerformanceTest
-- **PerformaceTest** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_2B.java)
-- - **PerformanceTest =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
- # Program 3
-- # StringOperation_A
-- **StringOperation** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3A.java)
-- - **StringOperation =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
-- # StringOperation_B
--  **StringOpertions** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3B.java)
-- - **NullOEmptycheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
-- - **SubStingCounter =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq2_output.png)
-- - **ReverseString =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq3_output.png)
-- - **PalindromeCheck =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq4_output.png)
-- - **RemoveWhiteSpace =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3bq5_output.png)
--  # StringExcerise_C
--  **StringExcersise** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_3C.java)
-- - **Captializewords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq1_output.png)
-- - **truncate =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq2_output.png)
-- - **isNumeric =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq3_output.png)
-- - **ClassgenerateRandomString =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq4_output.png)
-- - **CountWords =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/3cq5_output.png)
- # Program 4
-- # Swing Program_A
--  **SwingExample** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_4A.java)
-- - **SwingExample =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/4a_output.png)
-- # Swing Program_B
--  **ButtonExample** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_4B.java)
-- - **ButtonExample =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/4b_output.png)
-- # Swing Program_C
--  **ClockHourglassDemo** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_4C.java)
-- - **ClockHourglassDemo =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/4c_output.png)
- # Program 5
-- # JListExample
--  **JListExample** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5A.java)
-- - **JListExample =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
-- # TabbedPaneExample
--  **TabbedPaneExample** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5B.java)
-- - **TabbedPaneExample =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
-- # CountryCaptialList
--  **CountryCaptialList** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5C.java)
-- - **CountryCaptialList =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
- - # ColorTabbedPane
--  **ColorTabbedPane** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_5D.java)
-- - **ColorTabbedPane =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
- # Program 6
-- # FactorialServlet
--  **FactorialServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6A.java)
--  **index.html** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6A.html)
-- - **FactorialServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/p6a_output.png)
-- # CookieServlet
--  **CookieServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6B.java)
-- - **CookieServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/6b_output.png)
-- # PrimeServlet
--  **PrimeServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6C.java)
--  **index.html** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6C.html)
-- - **PrimeServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/6c_output.png)
- # Program &
-- # Session Management
-- **second.jsp** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7A_second.jsp)
-- **welcome.jsp**-(https://github.com/4AL22CS098/java_programs/blob/main/Program_7A_welcome.jsp)
-- **index.html** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7A.html)
-- - **Session Management =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/7a_output.png)
-- # Cookie Management
--  **index.jsp** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7B_index.jsp)
-- **setCookie.jsp**-(https://github.com/4AL22CS098/java_programs/blob/main/Program_7B_setCookie.jsp)
-- - **CookieServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/7b_output.png)
-  # Program 8
-- # Insert_Coffee
--  **Insert_Coffee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8A.jsp)
-- - **Insert_Coffee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
-- # Update_Coffee
--  **Update_Coffee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8B.jsp)
-- - **Update_Coffee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
-- # Insert_Employee
--  **Insert_Employee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8C.jsp)
-- - **Insert_Employee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
- - # Update_Employee
--  **Update_Employee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8D.jsp)
-- - **Update_Employee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
-  # Program 9
-- # Delete_Coffee
--  **Delete_Coffee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9A.jsp)
-- - **Delete_Coffee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
-- # Query_Coffee_Starts_with_D
--  **Query_Coffee_Starts_with_D** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9B.jsp)
-- - **Query_Coffee_Starts_with_D =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
-- # Salary_report
--  **Salary_report** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9C.jsp)
-- - **Salary_report =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
- - # Delete_Employee
--  **Delete_Employee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9D.jsp)
-- - **Delete_Employee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
+
+
+---
+
+## 📌 Program 1: List Interface
+
+### 🔹 ListInterfaceDemo
+- [Output](https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
+
+### 🔹 Array_List
+- [ColorSearch Output](https://github.com/4AL22CS098/java_programs/blob/main/arraylist1.jpg)
+- [RemoveColors Output](https://github.com/4AL22CS098/java_programs/blob/main/arraylist2.jpg)
+- [SortColors Output](https://github.com/4AL22CS098/java_programs/blob/main/arraylist3.jpg)
+- [SubListExample Output](https://github.com/4AL22CS098/java_programs/blob/main/arraylist4.jpg)
+- [RemoveNthElement Output](https://github.com/4AL22CS098/java_programs/blob/main/arraylist5.jpg)
+
+### 🔹 Linked_List
+- [IterateFromSecond Output](https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_6.jpg)
+- [ReverseIteration Output](https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_7.jpg)
+- [InsertAtEnd Output](https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_8.jpg)
+- [DisplayWithPositions Output](https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_9.jpg)
+- [SwapElements Output](https://github.com/4AL22CS098/java_programs/blob/main/Linked_List_10.jpg)
+
+---
+
+## 📌 Program 2: String Operations
+
+### 🔹 StringOperationDemo
+- [Output](https://github.com/4AL22CS098/java_programs/blob/main/2a_output.png)
+
+### 🔹 PerformanceTest
+- [Output](https://github.com/4AL22CS098/java_programs/blob/main/2b_output.png)
+
+---
+
+## 📌 Program 3: Advanced String Tasks
+
+### 🔹 StringOperation_A
+- [Output](https://github.com/4AL22CS098/java_programs/blob/main/3a_output.png)
+
+### 🔹 StringOperation_B
+- [NullOrEmptyCheck Output](https://github.com/4AL22CS098/java_programs/blob/main/3bq1_output.png)
+- [SubStringCounter Output](https://github.com/4AL22CS098/java_programs/blob/main/3bq2_output.png)
+- [ReverseString Output](https://github.com/4AL22CS098/java_programs/blob/main/3bq3_output.png)
+- [PalindromeCheck Output](https://github.com/4AL22CS098/java_programs/blob/main/3bq4_output.png)
+- [RemoveWhiteSpace Output](https://github.com/4AL22CS098/java_programs/blob/main/3bq5_output.png)
+
+### 🔹 StringExercise_C
+- [CapitalizeWords Output](https://github.com/4AL22CS098/java_programs/blob/main/3cq1_output.png)
+- [Truncate Output](https://github.com/4AL22CS098/java_programs/blob/main/3cq2_output.png)
+- [isNumeric Output](https://github.com/4AL22CS098/java_programs/blob/main/3cq3_output.png)
+- [GenerateRandomString Output](https://github.com/4AL22CS098/java_programs/blob/main/3cq4_output.png)
+- [CountWords Output](https://github.com/4AL22CS098/java_programs/blob/main/3cq5_output.png)
+
+---
+
+## 📌 Program 4: Swing GUI
+
+- [SwingExample Output](https://github.com/4AL22CS098/java_programs/blob/main/4a_output.png)
+- [ButtonExample Output](https://github.com/4AL22CS098/java_programs/blob/main/4b_output.png)
+- [ClockHourglassDemo Output](https://github.com/4AL22CS098/java_programs/blob/main/4c_output.png)
+
+---
+
+## 📌 Program 5: GUI Components
+
+- [JListExample Output](https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
+- [TabbedPaneExample Output](https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
+- [CountryCapitalList Output](https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
+- [ColorTabbedPane Output](https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
+
+---
+
+## 📌 Program 6: Servlets
+
+- [FactorialServlet Output](https://github.com/4AL22CS098/java_programs/blob/main/p6a_output.png)
+- [CookieServlet Output](https://github.com/4AL22CS098/java_programs/blob/main/6b_output.png)
+- [PrimeServlet Output](https://github.com/4AL22CS098/java_programs/blob/main/6c_output.png)
+
+---
+
+## 📌 Program 7: Session and Cookie Management
+
+- [Session Management Output](https://github.com/4AL22CS098/java_programs/blob/main/7a_output.png)
+- [Cookie Management Output](https://github.com/4AL22CS098/java_programs/blob/main/7b_output.png)
+
+---
+
+## 📌 Program 8: Database - Coffee & Employee
+
+- [Insert_Coffee Output](https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
+- [Update_Coffee Output](https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
+- [Insert_Employee Output](https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
+- [Update_Employee Output](https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
+
+---
+
+## 📌 Program 9: Database Operations
+
+- [Delete_Coffee Output](https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
+- [Query_Coffee_Starts_with_D Output](https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
+- [Salary_Report Output](https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
+- [Delete_Employee Output](https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
