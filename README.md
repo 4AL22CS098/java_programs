@@ -77,3 +77,13 @@
 -  **PrimeServlet** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6C.java)
 -  **index.html** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_6C.html)
 - - **PrimeServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/6c_output.png)
+ # Program &
+- # Session Management
+- **second.jsp** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7A_second.jsp)
+- **welcome.jsp**-(https://github.com/4AL22CS098/java_programs/blob/main/Program_7A_welcome.jsp)
+- **index.html** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7A.html)
+- - **Session Management =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/7a_output.png)
+- # Cookie Management
+-  **index.jsp** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7B_index.jsp)
+- **setCookie.jsp**-(https://github.com/4AL22CS098/java_programs/blob/main/Program_7B_setCookie.jsp)
+- - **CookieServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/7b_output.png)
