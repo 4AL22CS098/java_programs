@@ -1,11 +1,6 @@
 /*4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
 pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
 event handling mechanism with addActionListener( ). */
-Event Handling
-The event handling mechanism used by Swing is the same as that used by the AWT. This approach is
-called the delegation event model, and it is described in Chapter 24. In many cases, Swing uses the
-same events as does the AWT, and these events are packaged in java.awt.event. Events specific to
-Swing are stored in javax.swing.event.
 
 package Swings;
 import java.awt.Font;
