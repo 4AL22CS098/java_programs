@@ -7,7 +7,7 @@
 ## 📌 Program 1: List Interface
 
 ### 🔹 ListInterfaceDemo
-- [Output](https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
+- **ListInterfaceDemo Output**(https://github.com/4AL22CS098/java_programs/blob/main/program_1_A_output.jpg)
 
 ### 🔹 Array_List
 - [ColorSearch Output](https://github.com/4AL22CS098/java_programs/blob/main/arraylist1.jpg)
