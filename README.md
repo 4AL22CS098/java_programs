@@ -87,3 +87,29 @@
 -  **index.jsp** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_7B_index.jsp)
 - **setCookie.jsp**-(https://github.com/4AL22CS098/java_programs/blob/main/Program_7B_setCookie.jsp)
 - - **CookieServlet =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/7b_output.png)
+  # Program 8
+- # Insert_Coffee
+-  **Insert_Coffee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8A.jsp)
+- - **Insert_Coffee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
+- # Update_Coffee
+-  **Update_Coffee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8B.jsp)
+- - **Update_Coffee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
+- # Insert_Employee
+-  **Insert_Employee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8C.jsp)
+- - **Insert_Employee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
+ - # Update_Employee
+-  **Update_Employee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_8D.jsp)
+- - **Update_Employee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
+  # Program 9
+- # Delete_Coffee
+-  **Delete_Coffee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9A.jsp)
+- - **Delete_Coffee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5a_output.png)
+- # Query_Coffee_Starts_with_D
+-  **Query_Coffee_Starts_with_D** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9B.jsp)
+- - **Query_Coffee_Starts_with_D =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5b_output.png)
+- # Salary_report
+-  **Salary_report** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9C.jsp)
+- - **Salary_report =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5c_output.png)
+ - # Delete_Employee
+-  **Delete_Employee** -(https://github.com/4AL22CS098/java_programs/blob/main/Program_9D.jsp)
+- - **Delete_Employee =>output** -(https://github.com/4AL22CS098/java_programs/blob/main/5d_output.png)
