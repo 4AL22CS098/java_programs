@@ -103,7 +103,7 @@
 ## 📌 Program 7: Session and Cookie Management
 
 ### 19. Session Management  
-- **Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/7a_output.png)  
+- **Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/7a_ouput.png)  
 
 ### 20. Cookie Management  
 - **Output =>** (https://github.com/4AL22CS098/java_programs/blob/main/7b_output.png)  
